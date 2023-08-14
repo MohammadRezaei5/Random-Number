@@ -11,7 +11,7 @@ Launching the project:
 
 What will we learn in this mini project?
 * Fetch
-* FelxBox
+* FlexBox
 * SetInterval
 
 ---------------------------------------------------------------------------------------------------------------------
