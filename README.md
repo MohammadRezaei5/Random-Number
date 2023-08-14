@@ -1,11 +1,11 @@
 # Random-Number
 
 Launching the project:
-1.To run the project, you must already have NodeJS and npm installed.
-2.download and unzip the initial project.
-3.In the random-number folder, run the npm install command to install the requirements.
-4.In the same folder, run the npm run server command to start the project server.
-5.After successfully completing these steps, open the index.html file in the browser.
+* To run the project, you must already have NodeJS and npm installed.
+* download and unzip the initial project.
+* In the random-number folder, run the npm install command to install the requirements.
+* In the same folder, run the npm run server command to start the project server.
+* After successfully completing these steps, open the index.html file in the browser.
 
 What will we learn in this mini project?
 * Fetch
